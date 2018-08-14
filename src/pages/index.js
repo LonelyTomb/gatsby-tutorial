@@ -7,6 +7,8 @@ export default () => <div style={{ color: `tomato` }} >
  <img src="https://source.unsplash.com/random/400x200" alt="..."/>
  <br/>
  <div>
- <Link to="/page-2/">Link</Link>
+ <Link to="/page-2/">Page 2</Link> 
+ <br/>
+ <Link to="/page-3/">Page 3</Link>
  </div>
  </div>
